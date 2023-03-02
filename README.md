@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Status
 <h4 align="center"> 
-	🚧  PHP Select 🚀 Concluído ...  🚧
+	🚧  🚀 Concluído ...  🚧
 </h4>
 
 Feito de ❤️ por Lucas Ribeiro👋🏽 Entre em contato!
